@@ -1,0 +1,8 @@
+F:\facultate\An 2\Sem 2\SGBD\ProjectManagement\ProjectManagement\bin\Debug\ProjectManagement.exe
+F:\facultate\An 2\Sem 2\SGBD\ProjectManagement\ProjectManagement\bin\Debug\ProjectManagement.pdb
+F:\facultate\An 2\Sem 2\SGBD\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagement.Form1.resources
+F:\facultate\An 2\Sem 2\SGBD\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagement.Properties.Resources.resources
+F:\facultate\An 2\Sem 2\SGBD\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagement.csproj.GenerateResource.Cache
+F:\facultate\An 2\Sem 2\SGBD\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagement.csproj.CoreCompileInputs.cache
+F:\facultate\An 2\Sem 2\SGBD\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagement.exe
+F:\facultate\An 2\Sem 2\SGBD\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagement.pdb
