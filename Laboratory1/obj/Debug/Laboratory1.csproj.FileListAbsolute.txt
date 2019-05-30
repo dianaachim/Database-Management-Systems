@@ -1,0 +1,10 @@
+F:\facultate\An 2\Sem 2\SGBD\Laboratory1\Laboratory1\bin\Debug\Laboratory1.exe.config
+F:\facultate\An 2\Sem 2\SGBD\Laboratory1\Laboratory1\bin\Debug\Laboratory1.exe
+F:\facultate\An 2\Sem 2\SGBD\Laboratory1\Laboratory1\bin\Debug\Laboratory1.pdb
+F:\facultate\An 2\Sem 2\SGBD\Laboratory1\Laboratory1\obj\Debug\Laboratory1.csprojResolveAssemblyReference.cache
+F:\facultate\An 2\Sem 2\SGBD\Laboratory1\Laboratory1\obj\Debug\Laboratory1.Form1.resources
+F:\facultate\An 2\Sem 2\SGBD\Laboratory1\Laboratory1\obj\Debug\Laboratory1.Properties.Resources.resources
+F:\facultate\An 2\Sem 2\SGBD\Laboratory1\Laboratory1\obj\Debug\Laboratory1.csproj.GenerateResource.Cache
+F:\facultate\An 2\Sem 2\SGBD\Laboratory1\Laboratory1\obj\Debug\Laboratory1.csproj.CoreCompileInputs.cache
+F:\facultate\An 2\Sem 2\SGBD\Laboratory1\Laboratory1\obj\Debug\Laboratory1.exe
+F:\facultate\An 2\Sem 2\SGBD\Laboratory1\Laboratory1\obj\Debug\Laboratory1.pdb
